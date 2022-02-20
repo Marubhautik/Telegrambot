@@ -3,7 +3,7 @@ import re
 
 import urlshortener
 
-bot_token = '5243368069:AAHbax3Tsn15YG45K4Kv10h9UcWCZJGLI90'
+bot_token = 'token'
 bot = telebot.TeleBot(bot_token)
 rexpr = "http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+"
 
